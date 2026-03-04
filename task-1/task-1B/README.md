@@ -12,6 +12,9 @@ In this task, I implemented a ROS2 node to control the turtlesim and draw a dron
 The node uses publishers, service clients, timers, and futures to coordinate the complete drawing sequence.
 
 ---
+## Implementation Video 
+Here is the implementation video
+https://youtu.be/lO66zRaP6rY
 
 ## Node Details
 

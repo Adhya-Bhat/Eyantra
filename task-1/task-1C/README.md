@@ -122,7 +122,8 @@ Since this was part of the simulation round, all validation was done using the p
 * Green density is a valid indicator of plant health
 
 ---
-
+## Demo implementation
+![Task 1C Output](images/image.jpg)
 ## Key Learnings
 
 Through this task, I gained hands-on experience with:
